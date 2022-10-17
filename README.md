@@ -1,4 +1,6 @@
-# List of main perpetual AMMs
+# Perpetual AMMs
+
+List of perpetual AMMs, main ones or implementations with new features.
 
 ### Ethereum (L1+L2)
 - GMX https://app.gmx.io/
